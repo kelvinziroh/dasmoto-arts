@@ -1,5 +1,13 @@
+html {
+    background-image: url(../images/pattern.webp);
+}
+
 body {
     font-family: Helvetica;
+    width: 80%;
+    margin: 0 auto;
+    background-color: white;
+    padding: 10px;
 }
 
 header {
